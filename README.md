@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @JacquelinLai
 - 👀 Interest: everything relates to data science and computer science, painting, music
-- 🌱 Major: Information Sciences in University of Illinois Champaign-Urbana, freshman undergraduate
+- 🏫 Degree: Bachelor of science in University of Illinois Champaign-Urbana, Junior
+- 🌱 Major: Information Sciences + Data Science
+- 💻 Minor: Computer Science
 - 📫 Contact: lsrislucky@gmail.com
 
 <!---
