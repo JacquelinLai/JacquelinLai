@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @JacquelinLai
-- 👀 Interest: everything relates to data science and computer science, painting, music
+- 👀 Interest: everything relates to data science and computer science, painting, design...
 - 🏫 Degree: Bachelor of science in University of Illinois Champaign-Urbana, Junior
 - 🌱 Major: Information Sciences + Data Science
 - 💻 Minor: Computer Science
-- 📫 Contact: lsrislucky@gmail.com
+- 📫 Contact: shanrou2@illinois.edu
 
 <!---
 JacquelinLai/JacquelinLai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
