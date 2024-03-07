@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JacquelinLai
-- 👀 Interest: everything relates to data science and computer science, painting, design...
+- 👀 Interest: everything relates to data science, computer science, business intelligence, design...
 - 🏫 Degree: Bachelor of science in University of Illinois Champaign-Urbana, Junior
 - 🌱 Major: Information Sciences + Data Science
 - 💻 Minor: Computer Science
